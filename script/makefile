@@ -3,10 +3,7 @@
 #  File: makefile
 #  Author: Myles Busig
 #  Date Created: 2020-05-09
-#  Last Edited: 2020-05-10
-#
-#  Description:
-#  Provides rules for managing the potato-script project
+#  Last Edited: 2020-05-13
 #
 #  Copyright (c) Myles Busig, 2020
 #
